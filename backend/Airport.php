@@ -6,4 +6,5 @@ class Airport {
                               public $longitude
                               ) {
   }
+  
 }
